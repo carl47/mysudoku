@@ -10,3 +10,6 @@ Another approach is to use code that can be directly run on any platform without
 I have been learning Java so I decided to rewrite my Sudoku program and make it truly platform independent. Let's hope it will be “Write Once, Run Anywhere”, not “Write Once, Debug Everywhere”.
 We can use Eclipse or the NetBeans IDE. Each has is own GUI toolkit. I do use Eclipse but I decided to use Java Foundation Classes (JFC) and Swing.
 The code can be written and hacked with a text editor using javac to compile and java to run the application.
+
+
+https://www.codeproject.com/Articles/304541/Sudoku-game-using-Java
